@@ -3,7 +3,7 @@ var lyric = "maybe";
   console.log("and this is crazy..");
   console.log("but here's my number..");
   console.log("so call me");
-  function callMe()
+  function callMe(){
   return lyric;
 }
 function crazy() {
