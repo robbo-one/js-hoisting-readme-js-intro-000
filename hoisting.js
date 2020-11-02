@@ -8,6 +8,7 @@ function callMe() {
   return lyric;
 }
 callMe();
+}
 
 function crazy() {
   // fix the code in here:
