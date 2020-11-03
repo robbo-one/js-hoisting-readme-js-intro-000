@@ -10,14 +10,16 @@ function callMe() {
 
 
 
-  function thisIsCrazy() {
-    // fix the code in here:
+  function crazy() {
+    var crazy = function() {// fix the code in here:
     thisIsCrazy();
 
     var thisIsCrazy = function (){
       console.log("hey!!!")
     }
+    thisIsCrazy();
   }
+  crazy()
 
   function sayMyName() {
     // fix the code in here:
