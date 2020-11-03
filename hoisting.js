@@ -15,6 +15,7 @@ function callMe() {
   function(){
     var thisIsCrazy = "hey!!!"
     console.log("hey!!!")
+    return thisIsCrazy;
   }
 }
 
