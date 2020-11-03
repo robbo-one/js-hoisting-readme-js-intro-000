@@ -7,6 +7,7 @@ function callMe() {
   return lyric;
   }
   callMe()
+}
 
 
 function crazy() {
