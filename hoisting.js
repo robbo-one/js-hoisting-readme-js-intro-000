@@ -16,6 +16,7 @@ function callMe() {
 
   var thisIsCrazy = function thisIsCrazy(){
     console.log("hey!!!")
+    thisIsCrazy();
   }
 }
 
